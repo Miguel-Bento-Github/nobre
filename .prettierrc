@@ -1,0 +1,7 @@
+{
+  "tabWidth": 2,
+  "semi": true,
+  "editor.formatOnSave": true,
+  "proseWrap": "always",
+  "useTabs": false
+}
